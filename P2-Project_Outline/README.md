@@ -7,12 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project will be a progress tracker multi-use progress tracker. Users will be able to share their progress with their friends, invite friends to compete on trackers, and track their progress over time. 
 ### Features
-Include Features here
+Log in and Log out.
+Invite friends to compete on goals.
+Share progress with friends.
+Track weekly progress. 
+Daily reminder.
 ### Technologies
-Include Technologies here
+Java
+SpringBoot
+MySQL
+Thymleaf templates
+JavaScript
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to allow users to invite other users and share their progress with friends. 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/duvHcEzP/lift-off
